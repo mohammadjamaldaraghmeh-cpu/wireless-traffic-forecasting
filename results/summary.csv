@@ -1,0 +1,5 @@
+model,MAE,RMSE,MAPE_%,hours_asleep_%,oracle_asleep_%,missed_%
+SARIMA,285.59,400.68,10.32,15.48,18.45,6.07
+LSTM,290.89,411.76,9.97,16.67,18.45,13.04
+Hybrid SARIMA+LSTM,302.56,421.31,11.23,13.89,18.45,11.49
+Naive (yesterday),585.35,908.45,21.85,19.25,18.45,20.55

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.part
+*.zip
+
+# Local Arabic copy of the README
+README.ar.md
+
+# Leftover plots from the synthetic-data run
+results/forecast_cell_1.png
+results/forecast_cell_2.png
+results/forecast_cell_3.png
+results/forecast_cell_4.png
+results/forecast_cell_5.png
